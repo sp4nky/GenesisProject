@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06856ef9cb063b41b154db9d579781e, type: 3}
+  m_Name: SwordRed
+  m_EditorClassIdentifier: 
+  itemName: Espada Infernal
+  sprite: {fileID: 21300000, guid: 61c4e9c6234f0a140b7cacac8480861d, type: 3}
+  price: 3600
+  attack: 42
+  criticProb: 28
+  defence: 0
+  type: 0

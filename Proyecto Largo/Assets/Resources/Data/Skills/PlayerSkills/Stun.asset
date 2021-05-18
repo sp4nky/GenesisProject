@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8857d87e4f8046b43bdd3bb2619d521c, type: 3}
+  m_Name: Stun
+  m_EditorClassIdentifier: 
+  skillName: Aturdir
+  sprite: {fileID: 0}
+  points: 3
+  skillBefore: {fileID: 11400000, guid: c5029d8ea633c68408e53cb3a40f8a56, type: 2}
+  meleeAttack: 0
+  damage: 10
+  defenceReduction: 0
+  aoe: 0
+  mana: 30
+  poison:
+    enable: 0
+    damage: 0
+  bleeding:
+    enable: 0
+    percentDamage: 0
+    turns: 0
+  stun:
+    enable: 1
+    turns: 1
+  burning:
+    enable: 0
+    damage: 0
+    turns: 0
+  cure:
+    enable: 0
+    hpPlus: 0

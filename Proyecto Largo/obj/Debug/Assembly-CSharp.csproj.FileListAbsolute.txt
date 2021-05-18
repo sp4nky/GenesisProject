@@ -1,0 +1,636 @@
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Cinemachine.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\mscorlib.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\netstandard.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\PsdPlugin.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.AppContext.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Collections.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Console.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Core.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Data.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Globalization.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Linq.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Numerics.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Reflection.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Threading.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Xml.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Mathematics.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.VisualStudio.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEditor.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEditor.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Cinemachine.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\PsdPlugin.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Mathematics.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.VisualStudio.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIElementsNativeModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.VirtualTexturingModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+C:\Users\d225364\Documents\a+\Proyecto Largo\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\d225364\Documents\a+\Proyecto Largo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\d225364\Documents\a+\Proyecto Largo\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\d225364\Documents\a+\Proyecto Largo\obj\Debug\Assembly-CSharp.dll
+C:\Users\d225364\Documents\a+\Proyecto Largo\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Cinemachine.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\mscorlib.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\netstandard.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\PsdPlugin.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.AppContext.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Collections.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Console.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Core.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Data.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Globalization.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Linq.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Numerics.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Reflection.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Threading.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Xml.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Mathematics.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.VisualStudio.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Cinemachine.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\PsdPlugin.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Mathematics.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.VisualStudio.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UIElementsNativeModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.VirtualTexturingModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\obj\Debug\Assembly-CSharp.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+C:\Users\Akin\Documents\A+\Proyecto Largo\Proyecto Largo\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb

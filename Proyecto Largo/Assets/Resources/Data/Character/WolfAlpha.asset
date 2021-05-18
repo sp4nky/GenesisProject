@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d4eddf53dbbbdb4588d6692a7b14961, type: 3}
+  m_Name: WolfAlpha
+  m_EditorClassIdentifier: 
+  nivel: 10
+  exp: 1000
+  expConstant: 0.1
+  maxHp: 300
+  maxPhysicalDefence: 70
+  maxMagicalDefence: 10
+  maxMana: 50
+  skills:
+  - {fileID: 11400000, guid: 489f5aae5d6ea004fa94bb667ad6b2e5, type: 2}
+  - {fileID: 11400000, guid: 3648f85686f63404cb72b768353a4b12, type: 2}
+  sword: {fileID: 0}
+  armor: {fileID: 0}
+  ring: {fileID: 0}
+  boots: {fileID: 0}
+  helmet: {fileID: 0}

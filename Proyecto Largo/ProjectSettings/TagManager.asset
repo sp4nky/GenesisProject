@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Trees
+  - Player
+  - Background
+  - Rain
+  - Enemy
+  - Limits
+  - DotMap
+  - Guards
+  - Items
+  - NPCSensor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2145892845
+    locked: 0
+  - name: CoverTree
+    uniqueID: 1615990649
+    locked: 0
+  - name: Cesped
+    uniqueID: 2766532805
+    locked: 0
+  - name: TreesBottom
+    uniqueID: 3101064467
+    locked: 0
+  - name: posttree
+    uniqueID: 3938421573
+    locked: 0
+  - name: Characters
+    uniqueID: 2926378445
+    locked: 0
+  - name: fron tree
+    uniqueID: 2754503389
+    locked: 0
+  - name: TreesTop
+    uniqueID: 837786385
+    locked: 0
+  - name: Rain
+    uniqueID: 2073555151
+    locked: 0
+  - name: UI
+    uniqueID: 867821549
+    locked: 0

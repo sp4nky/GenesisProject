@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06856ef9cb063b41b154db9d579781e, type: 3}
+  m_Name: Helmet3
+  m_EditorClassIdentifier: 
+  itemName: Casco Pesado
+  sprite: {fileID: 21300000, guid: 6040c2e4653806f4082a4639cff4b354, type: 3}
+  price: 2300
+  attack: 0
+  criticProb: 0
+  defence: 80
+  type: 2

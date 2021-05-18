@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0b5539fe9fc9b94cb0ce7d4da6a9988, type: 3}
+  m_Name: IvarPrimeraMision
+  m_EditorClassIdentifier: 
+  nameMission: Goblin Slayer
+  missionToActivateOnBegin: 
+  missionsTasks:
+  - description: Limpiar zona de Goblins
+    enemiesToKill:
+      enemyName: GoblinN1
+      count: 5
+    questEventName: 
+    taskEventTrigger: 
+    isCompleted: 0
+  - description: Reclamar recompensa
+    enemiesToKill:
+      enemyName: 
+      count: 0
+    questEventName: 
+    taskEventTrigger: 
+    isCompleted: 0
+  rewards:
+  - {fileID: 11400000, guid: 90601270a15e3484fbf3c08b042000ec, type: 2}
+  goldReward: 200
+  missionToActivateOnFinish: 
+  state: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0b5539fe9fc9b94cb0ce7d4da6a9988, type: 3}
+  m_Name: RubenPrimeraMision
+  m_EditorClassIdentifier: 
+  nameMission: El Alcalde
+  missionToActivateOnBegin: RiquelmeElHerrero
+  missionsTasks:
+  - description: Hablar con Riquelme
+    enemiesToKill:
+      enemyName: 
+      count: 0
+    questEventName: RiquelmeMisionInicial
+    taskEventTrigger: 
+    isCompleted: 0
+  - description: Hablar con Ruben
+    enemiesToKill:
+      enemyName: 
+      count: 0
+    questEventName: 
+    taskEventTrigger: 
+    isCompleted: 0
+  rewards:
+  - {fileID: 11400000, guid: b60377ca4d30dc44193ba27316679f41, type: 2}
+  goldReward: 300
+  missionToActivateOnFinish: GuardiaPrimeraMision
+  state: 0
